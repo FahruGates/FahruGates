@@ -1,6 +1,6 @@
 - 👋 Hallo wolrd, I’m @FahruGates
 - 👀 I’m Teknologi enthusias
-- 🌱 I’m currently learning kontlin
+- 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on everything
 - 📫 My contact fahrurofiyu7@gmail.com
 - 100% I like to learn anything
