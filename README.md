@@ -1,4 +1,4 @@
-- 👋 Hallo wolrd, I’m @FahruGates
+- 👋 Hallo wolrd, I’m fahru ropiyu
 - 👀 I’m Teknologi enthusias
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on everything
