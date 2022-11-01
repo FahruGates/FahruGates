@@ -1,7 +1,7 @@
 - 👋 Hallo wolrd, I’m fahru ropiyu
 - 👀 I’m Teknologi enthusias
 - 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on everything
+- 💞️ I’m looking to collaborate on mobile apps
 - 📫 My contact fahrurofiyu7@gmail.com
 - 100% I like to learn anything
 
